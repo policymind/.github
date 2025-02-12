@@ -1,4 +1,4 @@
-## Policy Mind
+## PolicyMind
 ### Policymaking Today is Fragmented and Ineffective
 Conventional public policymaking suffers from reactivity, protracted timelines, overreliance on anecdotes rather than evidence, and a lack of citizen perspectives. This antiquated approach impedes governments from proactively addressing evolving challenges, stifles economic growth, and obstructs the delivery of meaningful public value.
 
