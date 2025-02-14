@@ -10,3 +10,4 @@ PolicyMind is a groundbreaking technology company harnessing the power of genera
  - Boosting productivity in policymaking
  - Enhancing creative policy solutions
  - Improving decision-making through data analysis
+ - Empowering citizens with policy comparison
